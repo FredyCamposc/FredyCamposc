@@ -30,7 +30,6 @@ Estoy aprendiendo y me interesa seguir creciendo en todo lo relacionado con:
 
 - **GitHub:** [Fredycamposc](https://github.com/Fredycamposc)  
 - **Instagram:** [@sick_skeleton_](https://www.instagram.com/sick_skeleton_/)
-- **Correo personal** [FredyCamposc](camposfredyc@gmail.com)
 ---
 
 ⭐ Gracias por visitar mi perfil. Estoy en constante aprendizaje y con muchas ganas de seguir avanzando en el mundo de la tecnología.
