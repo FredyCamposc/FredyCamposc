@@ -8,7 +8,6 @@
 Hola, ¿qué tal? Vengo a describir un poco de mí.  
 Soy **titulado en Gastronomía Internacional en AIEP** con **5 años de experiencia** en el rubro.  
 Actualmente estoy en el **BootCamp de Generation Chile**, dando mis primeros pasos en el mundo de la tecnología, con muchas ganas de aprender y seguir adelante con esto, ojalá en un estudio profesional.  
-
 Me gusta todo lo que es la **cocina**, la **tecnología** y los **videojuegos**.
 
 ---
@@ -31,7 +30,7 @@ Estoy aprendiendo y me interesa seguir creciendo en todo lo relacionado con:
 
 - **GitHub:** [Fredycamposc](https://github.com/Fredycamposc)  
 - **Instagram:** [@sick_skeleton_](https://www.instagram.com/sick_skeleton_/)
-- **Correo personal** [FredyCamposc](https://myaccount.google.com/u/1/?utm_source=sign_in_no_continue&pli=1&pageId=none)
+- **Correo personal** [FredyCamposc](camposfredyc@gmail.com)
 ---
 
 ⭐ Gracias por visitar mi perfil. Estoy en constante aprendizaje y con muchas ganas de seguir avanzando en el mundo de la tecnología.
