@@ -1,5 +1,5 @@
 <div align="center">
-#👋 Hola, soy Fredy Campos
+👋 Hola, soy Fredy Campos
 <p align="center">
 
 <img alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd3OWhuY2g4cGFkbzg1bmc0c3lzZTVtb2pwcmw1dDhicGxuZjFzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ5z2bgCLBshZUA/giphy.gif">
