@@ -1,4 +1,9 @@
-# 👋 Hola, soy Fredy Campos
+<div align="center">
+#👋 Hola, soy Fredy Campos
+<p align="center">
+
+<img alt="Coding" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd3OWhuY2g4cGFkbzg1bmc0c3lzZTVtb2pwcmw1dDhicGxuZjFzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJ5z2bgCLBshZUA/giphy.gif">
+</div>
 
 Hola, ¿qué tal? Vengo a describir un poco de mí.  
 Soy **titulado en Gastronomía Internacional en AIEP** con **5 años de experiencia** en el rubro.  
@@ -7,11 +12,11 @@ Actualmente estoy en el **BootCamp de Generation Chile**, dando mis primeros pas
 Me gusta todo lo que es la **cocina**, la **tecnología** y los **videojuegos**.
 
 ---
-
+ 
 ## 💻 Tecnologías e intereses
 
 Estoy aprendiendo y me interesa seguir creciendo en todo lo relacionado con:
-
+  
 - Desarrollo de páginas web  
 - Ciberseguridad  
 - HTML  
@@ -26,23 +31,14 @@ Estoy aprendiendo y me interesa seguir creciendo en todo lo relacionado con:
 
 - **GitHub:** [Fredycamposc](https://github.com/Fredycamposc)  
 - **Instagram:** [@sick_skeleton_](https://www.instagram.com/sick_skeleton_/)
-
+- **Correo personal** [FredyCamposc](https://myaccount.google.com/u/1/?utm_source=sign_in_no_continue&pli=1&pageId=none)
 ---
 
 ⭐ Gracias por visitar mi perfil. Estoy en constante aprendizaje y con muchas ganas de seguir avanzando en el mundo de la tecnología.
+</p>
 
+<div align="center">
+  <img alt="Coding" width="250"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2llcjcwNmM1amdtZXJtb2x6MThhanZqNDk4YTFybW1qZHVlbjk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwfAa9rbXaZe86c/giphy.gif">
+</div>
 
-<!--
-**FredyCamposc/FredyCamposc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
